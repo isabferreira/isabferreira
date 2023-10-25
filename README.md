@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Isabela Ferreira👋
 
 - 🔭 Em busca do primeiro emprego
-- 🌱 Estudando Desenvolvimento de Software
+- 💻 Desenvolvimento de Software Multiplataforma
 - 😄 Pronouns: ela/dela
 
 <h3>TECNOLOGIAS</h3>
