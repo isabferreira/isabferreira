@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Isabela Ferreira👋
 
 - 💻 Desenvolvimento de Software Multiplataforma
-- 😄 Pronouns: ela/dela
 
 <h3>TECNOLOGIAS</h3>
 <div style="display: inline_block"><br>
