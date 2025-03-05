@@ -1,8 +1,8 @@
-<h1 align="center">Olá! Eu sou a Isabela Ferreira 👋 </h1>
+<h1 align="CENTER">Olá! Eu sou a Isabela Ferreira</h1>
 
 ###
 
-<h2 align="center">Techs</h2>
+<h3 align="center">TECNOLOGIAS</h3>
 
 ###
 
@@ -32,16 +32,19 @@
 
 ###
 
+<h3 align="center">ESTATÍSTICAS</h3>
+
+###
+
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isabferreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=isabferreira&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isabferreira&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=isabferreira&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isabferreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isabferreira&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h2 align="center">Contact</h2>
+<h3 align="center">CONTATOS</h3>
 
 ###
 
