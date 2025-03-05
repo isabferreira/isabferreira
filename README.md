@@ -2,6 +2,13 @@
 
 - 💻 Desenvolvimento de Software Multiplataforma
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isabferreira&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=isabferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isabferreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="170" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=isabferreira&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+</div>
+
 ###
 
 <h3 align="center">Techs</h3>
@@ -42,7 +49,7 @@
   <a href="https://www.linkedin.com/in/isabela-ferreira-santos-a7a467240/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="isabelasferreira19@gmail.com" target="_blank">
+  <a href="mailto:isabelasferreira19@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
